@@ -1,1 +1,1 @@
-# python_template_repo
+# Easy Ensemble: Simple Deep Ensemble Learning for Sensor-Based Human Activity Recognition
